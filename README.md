@@ -1,6 +1,7 @@
 # structlog-usage-example
 
-Usage example for Go package github.com/powerman/structlog
+Usage example for Go package
+[github.com/powerman/structlog](https://godoc.org/github.com/powerman/structlog).
 
 ## Output
 
